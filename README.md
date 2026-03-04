@@ -4,7 +4,9 @@
 
 ScreenTranslator is a lightweight Java tool that lets you select an area of your screen, extract text using OCR and translate it into English, displayed above the selected area
 
-<img src="assets/screenshot_translator.gif" alt="ScreenTranslator Demo" width="500"/>
+<img src="assets/screenshot_translator.gif" alt="ScreenTranslator Demo" width="500"/><br>
+*Demo text from Lev Tolstoy – Childhood*
+
 ---
 
 ## Features
