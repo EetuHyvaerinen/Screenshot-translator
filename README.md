@@ -16,8 +16,6 @@ ScreenTranslator is a lightweight Java tool that lets you select an area of your
 - Translate detected text to English using Google Translate (currently an unofficial http endpoint)
 - Displays translation above the selection area
 - Tray icon for quick access and exit
-- Lightweight and easy to use
-
 ---
 
 ### Prerequisites
